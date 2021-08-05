@@ -1,6 +1,8 @@
 def sortWords(inputFileName, outputFileName):
         try:
                 print("Function started");
+                print("Function started in featuer1");
+                print("Function started in featuer1");
                 file = open(inputFileName,"r")
                 l = file.read().split(" ")
                 newList = []
