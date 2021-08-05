@@ -98,3 +98,6 @@
 98 – ninety-eight
 99 – ninety-nine
 100 – hundred
+101 – hundred-one
+102 – hundred-two
+103 – hundred-three
